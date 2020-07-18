@@ -20,3 +20,5 @@ e
 npm run dev
 ```
 Onde o primeiro é pra rodar a aplicação do react e o segundo para rodar o json-server, que consite uma fake-api.
+
+Para debug foi usado o [Reactotron](https://github.com/infinitered/reactotron) tanto para o React, quanto para o Redux e Redux-Saga.
