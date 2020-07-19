@@ -1,7 +1,9 @@
 # RocketShoes_eshop
 FrontEnd de um site de e-commerce, onde é aprendido o uso do React, Redux e Redux-Saga.
-O uso de **Hooks** para React  e Redux são apresentados na branch [WithHooks](https://github.com/RenatoDTH/RocketShoes_eshop/tree/WithHooks)
-Os ensinamentos são dados pela [RocketSeat](https://rocketseat.com.br/)
+
+O uso de **Hooks** para React  e Redux são apresentados na branch [WithHooks](https://github.com/RenatoDTH/RocketShoes_eshop/tree/WithHooks).
+
+Os ensinamentos são dados pela [RocketSeat](https://rocketseat.com.br/).
 
 Para iniciar o projeto, inicialmente você precisa rodar:
 ```
